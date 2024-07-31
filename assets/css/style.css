@@ -105,7 +105,7 @@
 
 /* --------------------webTitle -----------------------*/
 .webTitle {
-  background: url(/assets/Img/amano.jpg) no-repeat;
+  background: url(/assets/img/amano.jpg) no-repeat;
   background-size: cover;
   background-position: 50% 80%;
   object-fit: cover;
@@ -526,7 +526,7 @@ section .container .innerWrap .innerDesc {
 
 /*------------------- startContentSix------------------------- */
 .contentSix .container {
-  background: url(/assets/Img/read.jpg);
+  background: url(/assets/img/read.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 60%;
